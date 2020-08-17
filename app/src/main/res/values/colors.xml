@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="datepicker">#98f5a9</color>
+    <color name="Background">#85BCA9</color>
+    <color name="calendarcolor">#1B4A40</color>
+</resources>

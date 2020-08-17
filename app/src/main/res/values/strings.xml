@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AGROID</string>
+    <string name="title1">CARROT</string>
+    <string name="desc1"><b>Soil</b>\n\n
+
+        Well drained soil rich in organic matter, but with no manure added prior to planting.
+        Use well aged compost or vermicompost to condition compacted soil.\n\n<b>Position</b>\n\n
+        Sun or partial afternoon shade.\n\n<b>Frost tolerant</b>\n\nTops tolerate light frost; roots survive hard freezes.
+        \n\n<b>Feeding</b>\n\nSoil quality is more essential that supplemental feeding.
+        \n\n<b>Harvesting</b>\n\nCan be harvested over a long period, but the longer plants are left in the ground,
+        the more likely they are to be injured by insects or animals.Pull them from the soil when the roots are 1 to 1½ inches in diameter.
+        To avoid breaking the carrot while pulling, loosen the soil around the carrot with a spade. </string>
+    <string name="button1">Next</string>
+    <string name="ctext"><b>HARVESTING CALENDAR</b></string>
+    <string name="subtitle1"><b>Select the day you are going to plant seeds</b></string>
+    <string name="subtitle2"><b>The day you are going to Harvest</b></string>
+    <string name="button2">Done</string>
+    <string name="subtitle3"><b>Harvesting Day</b></string>
+    <string name="button3">Done</string>
+    <string name="takedate">2020-11-9</string>
+
+
+</resources>
+
